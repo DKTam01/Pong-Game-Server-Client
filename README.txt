@@ -3,13 +3,14 @@ Contact Info
 
 Group Members & Email Addresses:
 
-    Person 1, person1@uky.edu
-    Person 2, person2@uky.edu
+    McKenna (Danielle) McIntyre, mckenna.mcintyre@uky.edu
+    Brenna Lambert, brenna.lambert@uky.edu
+    Daniel Kee Tam, daniel.keetam@uky.edu
 
 Versioning
 ==========
 
-Github Link: 
+Github Link: https://github.com/DKTam01/Pong-Game-Server-Client
 
 General Info
 ============
@@ -17,9 +18,7 @@ This file describes how to install/run your program and anything else you think 
 
 Install Instructions
 ====================
-
 Run the following line to install the required libraries for this project:
-
 `pip3 install -r requirements.txt`
 
 Known Bugs
